@@ -11,14 +11,14 @@ except FileNotFoundError:
     long_description = "A comprehensive machine learning pipeline for PJK prediction with Bayesian optimization and ensemble methods."
 
 setup(
-    name="pjk-prediction-pipeline",
+    name="pitt_pipeline",
     version="1.0.0",
     author="Your Name",  # Update with actual author
     author_email="your.email@example.com",  # Update with actual email
     description="Publication-ready PJK prediction pipeline with Bayesian optimization and ensemble methods",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/pjk-prediction-pipeline",  # Update with actual URL
+    url="https://github.com/Swakelin2011/pitt-pipeline",  # Update with actual URL
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
