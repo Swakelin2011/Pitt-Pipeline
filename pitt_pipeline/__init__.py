@@ -41,7 +41,7 @@ __email__ = "your.email@example.com"
 __license__ = "MIT"
 
 # Import main pipeline function
-from pitt_pipeline import complete_pjk_pipeline_with_bayes_opt
+from .pipeline import complete_pjk_pipeline_with_bayes_opt
 
 # Import utility functions (if you split them into separate modules later)
 # from .feature_selection import ensemble_feature_selection, auc_optimized_selection
